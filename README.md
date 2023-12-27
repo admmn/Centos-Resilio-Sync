@@ -1,4 +1,5 @@
 文章来自https://codeleading.com/article/34242907784/
+
 Centos7 安装 Resilio Sync
 下载
 Resilio Sync下载地址，找到自己系统环境的下载链接。
